@@ -1,5 +1,5 @@
 # Roll-Bean
-Developped in C# using Unity. Art made in Illustrator.
+Developped in C# using Unity to played on Android. Art made in Illustrator.
 
 
 A party game based on a list of 10 000 possible outcomes created for Dungeons and Dragons.
